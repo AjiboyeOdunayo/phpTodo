@@ -1,0 +1,99 @@
+body{
+  font-size: 12px;
+  background:lightblue;
+}
+
+ .heading{
+  width: 50%;
+  margin: 30px;
+  text-align: center;
+  color: lightblue;
+   background:white;
+  border: 2px solid white;
+  border-radius: 20px;
+  margin-left: 250px;
+}
+ form{
+  width: 50%;
+  margin: 30px auto;
+  border-radius:20px;
+  padding: 10px;
+  background:white;
+  border: 1px solid white;
+  align-content: center;
+  color: black;
+}
+
+
+.task_input{
+  width:50%;
+  height: 15px;
+  padding: 10px;
+  border: 2px solid white ;
+  border-radius:10%;
+  margin: 30px;
+  background: lightblue;
+  color:black;
+}
+
+.add_btn{
+  height: 30px;
+  background:lightblue;
+  color: white;
+  border-radius: 20%;
+  border: 2px solid white;
+  padding:0px;
+  margin-right: 50px;
+}
+
+table{
+  align-content: center;
+  width: 50%;
+  margin: 30px;
+
+  margin-left: : 150px;
+  border-collapse: collapse;
+  border-radius: 20px;
+  background-color: white
+
+}
+.tb{
+  align-content: center;
+  margin-left: 200px;
+}
+tr{
+  border-bottom: 1px solid ;
+  }
+th{
+  font-size: 19px;
+  color: black;
+}
+
+th, td{
+border: 20px;
+height: 30px;
+padding: 2px;
+
+}
+tr:hover{
+  background: lightblue;
+}
+
+.task{
+  text-align: center;
+}
+/* .delete{
+  text-align:
+
+}
+.delete a{
+  color: white;
+  background:black;
+  padding: 1px 6px;
+  border-radius: 3px;
+  text-decoration: none;
+} */
+
+/* a{
+  margin-left: 300px;
+} */
